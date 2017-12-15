@@ -1,0 +1,12 @@
+C:\projects\fantasyapicsharp\bin\Debug\netcoreapp2.0\fantasyapicsharp.deps.json
+C:\projects\fantasyapicsharp\bin\Debug\netcoreapp2.0\fantasyapicsharp.runtimeconfig.json
+C:\projects\fantasyapicsharp\bin\Debug\netcoreapp2.0\fantasyapicsharp.runtimeconfig.dev.json
+C:\projects\fantasyapicsharp\bin\Debug\netcoreapp2.0\fantasyapicsharp.dll
+C:\projects\fantasyapicsharp\bin\Debug\netcoreapp2.0\fantasyapicsharp.pdb
+C:\projects\fantasyapicsharp\obj\Debug\netcoreapp2.0\fantasyapicsharp.csproj.CoreCompileInputs.cache
+C:\projects\fantasyapicsharp\obj\Debug\netcoreapp2.0\fantasyapicsharp.AssemblyInfoInputs.cache
+C:\projects\fantasyapicsharp\obj\Debug\netcoreapp2.0\fantasyapicsharp.AssemblyInfo.cs
+C:\projects\fantasyapicsharp\obj\Debug\netcoreapp2.0\fantasyapicsharp.dll
+C:\projects\fantasyapicsharp\obj\Debug\netcoreapp2.0\fantasyapicsharp.pdb
+C:\projects\fantasyapicsharp\obj\Debug\netcoreapp2.0\fantasyapicsharp.dll.config
+C:\projects\fantasyapicsharp\bin\Debug\netcoreapp2.0\fantasyapicsharp.dll.config
